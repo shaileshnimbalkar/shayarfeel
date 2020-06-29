@@ -1,49 +1,5 @@
- 
-﻿<!DOCTYPE html> 
+
 <html> 
- <style type="text/css"> 
-  p { 
-    padding: 20px; 
-    font-size: 17px; 
-    font-weight: ; 
-    text-align: left; 
-    background:#F5F5F9;
-
-  } 
-  </style>
-<style type="text/css"> 
-  .demo-content { 
-    padding: 2px; 
-    font-size: 22px; 
-font-weight:boalt ; 
-    min-height: 300px; 
-    background:#abb1b8 ; 
-    margin-bottom: 10px; 
-  } 
-   
-  .demo-content.bg-alt { 
-    background: #abb1b8; 
-  } 
-  /* Some custom media query to make  
-       this example even better */ 
-   
-  @media screen and (max-width: 991px) { 
-    .flexible { 
-      min-height: 150px; 
-    } 
-  } 
-  </style> 
-
-<head> 
-  <meta charset="utf-8"> 
-  <title>sayarfeel</title> 
-  <meta name="viewport" content="width=device-width, initial-scale=1"> 
-  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css"> 
-  <!-- Optional Bootstrap theme --> 
-  <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.css"> 
-
-</head> 
- 
 <body> 
 <div class="container"> 
     <div class="row"> 
@@ -51,12 +7,6 @@ font-weight:boalt ;
 <h1>🎭      SHAYARFEEL....✍🏻</h1>
 </div></div>
 <br>
-<div class="table-responsive"> 
-    <table border 2 > 
-        <tr> 
-          <th><t2>HOME</t2></th> 
-</tr>
-</table>
 <div class="container"> 
     <div class="row"> 
       <div class="col-sm-3 col-md-2"> 
@@ -135,12 +85,5 @@ font-weight:boalt ;
 नींद आए ना आए<br> सपने तो 
 रोज आते हैं
 आपकी यादों के साथ
- </p> 
-    <small>- <cite>@Shayarfeel</cite></small> 
-  </blockquote> </div>
-
-  <script src="bootstrap/js/jquery.js"></script> 
-  <script src="bootstrap/js/bootstrap.js"></script> 
-</body> 
- 
+</body>
 </html>
