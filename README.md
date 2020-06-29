@@ -1,37 +1,146 @@
-## Welcome to GitHub Pages
+ 
+﻿<!DOCTYPE html> 
+<html> 
+ <style type="text/css"> 
+  p { 
+    padding: 20px; 
+    font-size: 17px; 
+    font-weight: ; 
+    text-align: left; 
+    background:#F5F5F9;
 
-You can use the [editor on GitHub](https://github.com/shaileshnimbalkar/shayarfeel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  } 
+  </style>
+<style type="text/css"> 
+  .demo-content { 
+    padding: 2px; 
+    font-size: 22px; 
+font-weight:boalt ; 
+    min-height: 300px; 
+    background:#abb1b8 ; 
+    margin-bottom: 10px; 
+  } 
+   
+  .demo-content.bg-alt { 
+    background: #abb1b8; 
+  } 
+  /* Some custom media query to make  
+       this example even better */ 
+   
+  @media screen and (max-width: 991px) { 
+    .flexible { 
+      min-height: 150px; 
+    } 
+  } 
+  </style> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head> 
+  <meta charset="utf-8"> 
+  <title>sayarfeel</title> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css"> 
+  <!-- Optional Bootstrap theme --> 
+  <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.css"> 
 
-### Markdown
+</head> 
+ 
+<body> 
+<div class="container"> 
+    <div class="row"> 
+      <div class="col-md-4">  
+<h1>🎭      SHAYARFEEL....✍🏻</h1>
+</div></div>
+<br>
+<div class="table-responsive"> 
+    <table border 2 > 
+        <tr> 
+          <th><t2>HOME</t2></th> 
+</tr>
+</table>
+<div class="container"> 
+    <div class="row"> 
+      <div class="col-sm-3 col-md-2"> 
+        <div class="demo-content">
+  <blockquote> 
+<h3>EMOTIONAL </h3>
+    <p><i>
+उसने कुछ ना कहा मगर, उसकी ना हम समझ गए।<br>
+कसूर का पता नहीं मगर, सजा हम भुगत गए।<br>
+प्यार में तू दूर कहीं मुझसे, मै भी तुझसे दूर कहीं।<br>
+प्यार डर ना सही मगर, प्यारसे डरना सही <br>
+हैं नहीं अब दुनियां में कुछ ,जो दिल को तसल्ली दे सके।<br>
+बस इतना ही हम सोच सके अब, और कुछ ना  सोच सके।<br>
+बस इतना ही हम लिख सके अब, और कुछ ना  लिख सके।<br>
+</p> 
+    <small>- <cite>@Shayarfeel</cite></small> 
+  </blockquote> </div>
+ <div class="container"> 
+    <div class="row"> 
+      <div class="col-sm-3 col-md-2"> 
+        <div class="demo-content">
+  <blockquote> 
+<h3>MISUNDERSTANDING</h3>
+    <p><i>शायद अब तक नहीं समझ पाया में दुनिया को,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+सोचा कुछ और था, हुआ कुछ और हैं।<br>
 
-```markdown
-Syntax highlighted code block
+सच कुछ और था, आप समझें कुछ और हैं।</i>
+ </p> 
+    <small>- <cite>@Shayarfeel</cite></small> 
+  </blockquote> </div>
+<div class="container"> 
+    <div class="row"> 
+      <div class="col-sm-3 col-md-2"> 
+        <div class="demo-content">
+  <blockquote> 
+<h3>EMOTIONAL </h3>
+    <p><i>
+एक तो प्यारी सी आपकी आंखे<br>
+और ये सुरीली सुंदर बाते<br>
+आपका मुस्कुराता चेहरा <br>
+प्यार हुआ जिसमें औरभी गेहरा<br>
+पसंद है हमको<br>
+ओ आपका गुस्सा करना<br>
+और फिर कुछ देर बाद <br>
+फूल सा फूलना....<br>
+</p> 
+    <small>- <cite>@Shayarfeel</cite></small> 
+  </blockquote> </div>
+</div> 
+ <div class="container"> 
+    <div class="row"> 
+      <div class="col-sm-3 col-md-2"> 
+        <div class="demo-content">
+   <blockquote> 
+<h3>FEELING</h3>
+    <p><i>
+कुछ तो नया हो रहा है <br>
+ज़िन्दगी में<br>
+शायद दुनियां बदल गई है या ,<br>
+मैं बदल गया हूं तेरी चाहत में।
+ </p> 
+    <small>- <cite>@Shayarfeel</cite></small> 
+  </blockquote> </div>
+</div>
+<div class="container"> 
+    <div class="row"> 
+      <div class="col-sm-3 col-md-2"> 
+        <div class="demo-content">
+  <blockquote> 
+<h3>SAD</h3>
+    <p><i>
+आप आए ना  आए <br>
+आपकी यादे हर रोज आती हैं 
+हमारे पास<br>
+नींद आए ना आए<br> सपने तो 
+रोज आते हैं
+आपकी यादों के साथ
+ </p> 
+    <small>- <cite>@Shayarfeel</cite></small> 
+  </blockquote> </div>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaileshnimbalkar/shayarfeel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <script src="bootstrap/js/jquery.js"></script> 
+  <script src="bootstrap/js/bootstrap.js"></script> 
+</body> 
+ 
+</html>
